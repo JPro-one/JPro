@@ -1,6 +1,6 @@
-# Welcome to the jpro bugtracker.
+# Welcome to the public JPro ticket system.
 
-This is the right place to report a bug or a minor shortcoming in jpro.
+This is the right place to report about bugs or suggest improvements for JPro.
 
 This page is public and welcomes any JPro user to file issues.  For issues which are not for public you can 
 send emails to support@jpro.one.  For users with support agreements feel free to call +49 151 6511 4637.
